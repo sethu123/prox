@@ -827,12 +827,12 @@ class medoo
 		return $output;
 	}
 }
-	$database = new medoo(array(
-		// required
-		'database_type' => 'mysql',
-		'database_name' => 'landingpagemanager',
-		'server' => 'localhost',
-		'username' => 'root',
-		'password' => '',
-	));
+//	$database = new medoo(array(
+//		// required
+//		'database_type' => 'mysql',
+//		'database_name' => 'landingpagemanager',
+//		'server' => 'localhost',
+//		'username' => 'root',
+//		'password' => '',
+//	));
 ?>

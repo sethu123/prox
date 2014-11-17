@@ -4,7 +4,7 @@ include 'medoo.php';
 		// required
 		'database_type' => 'mysql',
 		'database_name' => 'coupon',
-		'server' => 'localhost',
+		'server' => '192.168.2.113',
 		'username' => 'root',
 		'password' => '',
 
