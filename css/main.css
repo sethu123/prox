@@ -4,13 +4,48 @@
    Author's custom styles
    ========================================================================== */
 
+.coupon-title{
+	padding: 5px;
+	font-size: 27px;
+	font-weight: bold;
+	text-align:center;
+	vertical-align: middle;
+}
 
-
-
-
-
-
-
+.coupon-description{
+	padding: 5px;
+	font-size: 14px;
+	font-weight: bold;
+	text-align:center;
+	vertical-align: middle;
+}
+.tile-title{
+	background-color: #000 !important;
+}
+.tile-strip-A .coupon-title{
+	font-size: 27px;
+}
+.tile-strip-A .coupon-description,.tile-strip-A .tile-title{
+	font-size: 19px !important;
+}
+.tile-strip-B .coupon-title{
+	font-size: 32px;
+}
+.tile-strip-B .coupon-description,.tile-strip-B .tile-title{
+	font-size: 24px !important;
+}
+.tile-strip-C .coupon-title{
+	font-size: 37px;
+}
+.tile-strip-C .coupon-description,.tile-strip-C .tile-title{
+	font-size: 29px !important;
+}
+.tile-strip-D .coupon-title{
+	font-size: 42px;
+}
+.tile-strip-D .coupon-description,.tile-strip-D .tile-title{
+	font-size: 34px !important;
+}
 
 
 
